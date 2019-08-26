@@ -6,6 +6,6 @@ Y esta aprendiendo Git y GitHub con Freddy Vega CEO de Platzi gracias a las Beca
 
 Master 1
 
-Master 2
+Master 22
 
 Y Va a ser un Python Dev.
